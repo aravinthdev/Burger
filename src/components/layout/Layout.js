@@ -2,6 +2,7 @@ import React from 'react';
 import classes from './Layout.module.css';
 import Auxs from '../../hoc/Auxs'
 
+
 const layout = (props) =>(
     <Auxs>
         <div>Toolbar,Sidebar,Backdrop</div>
