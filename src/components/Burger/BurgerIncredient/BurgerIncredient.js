@@ -38,7 +38,7 @@ class BurgerIncredient extends Component {
     }
 }
 
-BurgerIncredient.propTypes{
+BurgerIncredient.propTypes = {
     type:PropTypes.string.isRequired
 }
 export default BurgerIncredient;
