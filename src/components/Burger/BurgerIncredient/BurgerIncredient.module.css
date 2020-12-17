@@ -36,7 +36,7 @@
     position: absolute;
     background-color: white;
     left: -170%;
-    top: 260%;
+    top: -200%;
     border-radius: 40%;
     transform: rotate(60deg);
     box-shadow: inset -1px 2px #c9c9c9;
